@@ -15,8 +15,12 @@ https://github.com/FAUCH0N/DA-TSA/blob/master/Attention%20index%2C%20Approach%20
 https://github.com/FAUCH0N/DA-TSA/blob/master/설문데이터%20분석/설문데이터%20분석.md
 
 # 3. 자동차 F1 경주 EEG 분석
-## 3.1 Crash Yes vs No
+## 3.1 Crash Yes vs No 
 https://github.com/FAUCH0N/DA-TSA/blob/master/F1%20경주%20분석%20리포트%20(Crash%20Cond.%20Recall%20Y%20vs%20N)/F1%20경주%20분석%20리포트%20(Crash%20Cond.%20Recall%20Y%20vs%20N).md
+
+데이터 : https://github.com/FAUCH0N/DA-TSA/tree/master/F1%20경주%20분석%20리포트%20(Crash%20Y%20vs%20N)%20데이터
 
 ## 3.2 RedBull Recall Yes vs No in Crash cond.
 https://github.com/FAUCH0N/DA-TSA/blob/master/F1%20경주%20분석%20리포트%20(Crash%20Cond.%20Recall%20Y%20vs%20N)/F1%20경주%20분석%20리포트%20(Crash%20Cond.%20Recall%20Y%20vs%20N).md
+
+데이터 : https://github.com/FAUCH0N/DA-TSA/tree/master/F1%20경주%20분석%20리포트%20(Crash%20Cond.%20Recall%20Y%20vs%20N)%20데이터
